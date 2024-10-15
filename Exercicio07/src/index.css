@@ -1,0 +1,29 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+}
+
+
+body {
+  background-color: rgb(25, 72, 94);
+  justify-content: center;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 5em;
+  line-height: 1.1;
+  color: aliceblue;
+}
+h2 {
+  font-size: 2.5em;
+  line-height: 1.1;
+  color: rgb(156, 197, 233);
+}
+

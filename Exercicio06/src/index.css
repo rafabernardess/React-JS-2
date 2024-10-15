@@ -1,0 +1,30 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+a {
+  font-size: 40px;
+  font-weight: 600;
+  color: #0a0a0a;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #3d45dd;
+}
+
+body {
+  justify-content: center;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
